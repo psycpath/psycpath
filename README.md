@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @psycpath
 - 👀 I’m interested in getting jacked and coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on pyton
-- 📫 How to reach me idk
+Create explor
+Expand concur
 
 <!---
 psycpath/psycpath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
