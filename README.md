@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @psycpath
-- 👀 I’m interested in getting jacked and coding
+- 👀 I’m interested incoding
 - 🌱 I’m currently having intercourse with chimps
 
 <!---
